@@ -1,6 +1,5 @@
-![Hi](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1_AM9HyBmoagrC5P2a-QQV_C-bKg9GOb1A&s)
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.gif" width="30px">
-<<!--
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.gif" width="30px"> HI
+<!--
 **ramImarn/ramImarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on seasia infotech 
