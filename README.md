@@ -1,8 +1,8 @@
 <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.gif" style="width: 2cm; height: 2cm;" alt="Hi" align="left"> 
 
-# **Hello, I'm RAM** Welcome to my GitHub profile!
+# **I'm RAM** Welcome to my GitHub profile!
 
-I'm currently working at <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFYdIpi7JwEMA/company-logo_200_200/company-logo_200_200/0/1706010439878/seasia_infotech_logo?e=2147483647&v=beta&t=jA3devyueCgbSi8CXBW9Ytoxrup09r5VfpIKdjTAd9g" alt="Seasia Infotech Logo" style="height:16px; width:4px; vertical-align:middle;"> 
+I'm currently working at <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFYdIpi7JwEMA/company-logo_200_200/company-logo_200_200/0/1706010439878/seasia_infotech_logo?e=2147483647&v=beta&t=jA3devyueCgbSi8CXBW9Ytoxrup09r5VfpIKdjTAd9g" alt="Seasia Infotech Logo" style="height:16px; width:14px; vertical-align:middle;"> 
 leading an innovative team in **Aritfical Intelegnece and Businese Inteligence**. I'm passionate about developing AI solutions and collaborating on projects that push the boundaries of technology.
 
 ---
@@ -13,8 +13,6 @@ leading an innovative team in **Aritfical Intelegnece and Businese Inteligence**
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
 <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" alt="MLFlow" />
-![Big Data Analytics](https://img.shields.io/badge/Big%20Data%20Analytics-%2300BCD4.svg?style=for-the-badge&logo=Hadoop&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy" />
 <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
