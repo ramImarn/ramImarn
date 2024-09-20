@@ -1,4 +1,4 @@
-## Hi there (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1_AM9HyBmoagrC5P2a-QQV_C-bKg9GOb1A&s)
+![Hi](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1_AM9HyBmoagrC5P2a-QQV_C-bKg9GOb1A&s)
 
 <<!--
 **ramImarn/ramImarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
