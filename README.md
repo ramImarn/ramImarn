@@ -8,7 +8,7 @@ I'm currently working at **Seasia Infotech** ,leading an innovative team in **Ar
 
 ### 🛠️ **Tech Stack & Tools**:
 <div align="left">
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" /> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" /> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" /> 
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
 <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" alt="MLFlow" />
@@ -22,7 +22,7 @@ I'm currently working at **Seasia Infotech** ,leading an innovative team in **Ar
 
 ---
 
-### 🔭 **What I’m Working On: <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFYdIpi7JwEMA/company-logo_200_200/company-logo_200_200/0/1706010439878/seasia_infotech_logo?e=2147483647&v=beta&t=jA3devyueCgbSi8CXBW9Ytoxrup09r5VfpIKdjTAd9g" alt="Seasia Infotech Logo" style="height:16px; width:140px; vertical-align:middle;">.
+### 🔭 **What I’m Working at **: <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFYdIpi7JwEMA/company-logo_200_200/company-logo_200_200/0/1706010439878/seasia_infotech_logo?e=2147483647&v=beta&t=jA3devyueCgbSi8CXBW9Ytoxrup09r5VfpIKdjTAd9g" alt="Seasia Infotech Logo" style="height:90px; width:140px; vertical-align:middle;">.
 - **Azure** and **AWS** projects leveraging cloud capabilities.
 - Developing and deploying **AI-driven solutions** using tools like **FastAPI** and **Flask**.
 
