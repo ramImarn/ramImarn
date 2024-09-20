@@ -2,8 +2,7 @@
 
 # **I'm RAM** Welcome to my GitHub profile!
 
-I'm currently working at <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFYdIpi7JwEMA/company-logo_200_200/company-logo_200_200/0/1706010439878/seasia_infotech_logo?e=2147483647&v=beta&t=jA3devyueCgbSi8CXBW9Ytoxrup09r5VfpIKdjTAd9g" alt="Seasia Infotech Logo" style="height:16px; width:14px; vertical-align:middle;"> 
-leading an innovative team in **Aritfical Intelegnece and Businese Inteligence**. I'm passionate about developing AI solutions and collaborating on projects that push the boundaries of technology.
+I'm currently working at **Seasia Infotech** ,leading an innovative team in **Aritfical Intelegnece and Businese Inteligence**. I'm passionate about developing AI solutions and collaborating on projects that push the boundaries of technology.
 
 ---
 
@@ -23,8 +22,7 @@ leading an innovative team in **Aritfical Intelegnece and Businese Inteligence**
 
 ---
 
-### 🔭 **What I’m Working On**:
-- Leading a **Machine Learning team** at **Seasia Infotech**.
+### 🔭 **What I’m Working On: <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFYdIpi7JwEMA/company-logo_200_200/company-logo_200_200/0/1706010439878/seasia_infotech_logo?e=2147483647&v=beta&t=jA3devyueCgbSi8CXBW9Ytoxrup09r5VfpIKdjTAd9g" alt="Seasia Infotech Logo" style="height:16px; width:140px; vertical-align:middle;">.
 - **Azure** and **AWS** projects leveraging cloud capabilities.
 - Developing and deploying **AI-driven solutions** using tools like **FastAPI** and **Flask**.
 
