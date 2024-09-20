@@ -24,6 +24,10 @@ I'm currently working at **Seasia Infotech** ,leading an innovative team in **Ar
 
 ### 🔭 What I’m Working at <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFYdIpi7JwEMA/company-logo_200_200/company-logo_200_200/0/1706010439878/seasia_infotech_logo?e=2147483647&v=beta&t=jA3devyueCgbSi8CXBW9Ytoxrup09r5VfpIKdjTAd9g" alt="Seasia Infotech Logo" style="height:20px; width:140px; vertical-align:middle;"> :
 - **Azure** and **AWS** projects leveraging cloud capabilities.
+- Led medical research projects focused on tumor detection and type classification using MRI imaging technology.
+- Developed an AI-powered drug suggestion system to recommend appropriate medications based on patient data.
+- Designed and implemented a reinforcement learning model for a bot to interactively play the Brick Breaker game with users.
+- Applied AI and machine learning techniques across both healthcare and entertainment fields, demonstrating versatility in AI applications.
 - Developing and deploying **AI-driven solutions** using tools like **FastAPI** and **Flask**.
 
 ---
