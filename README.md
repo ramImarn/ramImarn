@@ -1,8 +1,8 @@
 <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.gif" style="width: 2cm; height: 2cm;" alt="Hi" align="left"> 
 
-# **Hello, I'm RAM** 👋 Welcome to my GitHub profile!
+# **Hello, I'm RAM** Welcome to my GitHub profile!
 
-I'm currently working at **Seasia Infotech**,<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFYdIpi7JwEMA/company-logo_200_200/company-logo_200_200/0/1706010439878/seasia_infotech_logo?e=2147483647&v=beta&t=jA3devyueCgbSi8CXBW9Ytoxrup09r5VfpIKdjTAd9g" alt="Seasia Infotech Logo" style="height:16px; vertical-align:middle;"> 
+I'm currently working at <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFYdIpi7JwEMA/company-logo_200_200/company-logo_200_200/0/1706010439878/seasia_infotech_logo?e=2147483647&v=beta&t=jA3devyueCgbSi8CXBW9Ytoxrup09r5VfpIKdjTAd9g" alt="Seasia Infotech Logo" style="height:16px; width:4px; vertical-align:middle;"> 
 leading an innovative team in **Aritfical Intelegnece and Businese Inteligence**. I'm passionate about developing AI solutions and collaborating on projects that push the boundaries of technology.
 
 ---
